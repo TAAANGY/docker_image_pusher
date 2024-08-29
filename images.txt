@@ -1,1 +1,1 @@
-docker.io/infiniflow/ragflow:v0.9.0
+docker.io/infiniflow/ragflow
